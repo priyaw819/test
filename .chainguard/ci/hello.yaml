@@ -3,4 +3,4 @@ environment:
   packages: [bash, coreutils]
 checks:
   hello:
-    cmd: [bash, -c, "echo hello from the trial; uname -a"]
+    cmd: [bash, -c, "echo hello from the develop init trial"]
